@@ -111,7 +111,7 @@ if selected=="Home":
     
     col1, col2 = st.columns([3, 1])
     with col2:
-        st.image("images\mainwindowdoc.jpg",
+        st.image("https://github.com/SanketBairagi/final_project/blob/main/images/mainwindowdoc.jpg?raw=true",
         caption="I'll help you diagnose your heart health! - Dr. Logistic",
         width=190)
         
