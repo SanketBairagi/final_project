@@ -155,7 +155,7 @@ if selected=="Home":
         
         
         You can see the steps of building the model, evaluating it, and cleaning the data itself
-        on my GitHub repo [here](#####). 
+        on my GitHub repo [here](https://github.com/SanketBairagi/final_project.git). 
         """)
     
     c1,c2,c3=st.columns([1,6,1])
